@@ -1,1 +1,1 @@
-Creating a new branch is quick.
+创建一个说明文件。
